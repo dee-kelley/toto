@@ -1,0 +1,23 @@
+{
+  "name": "toto",
+  "version": "1.0.0",
+  "description": "todo list",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dee-kelley/toto.git"
+  },
+  "author": "deirdre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dee-kelley/toto/issues"
+  },
+  "homepage": "https://github.com/dee-kelley/toto#readme",
+  "dependencies": {
+    "shortid": "^2.2.14"
+  }
+}
